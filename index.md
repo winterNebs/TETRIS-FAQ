@@ -24,27 +24,23 @@ Once you've done that, you're now ready to play versus.
 
 Hop into a versus game and good luck!
 
+## How to stack
 
+The best way to learn how to stack is play a lot, and review your own gameplay and the gameplay of people much better than you. 
+Experiment and try new things, and try to notice patterns. 
 
-## Openers
+You should have an intuitive understanding of how to stack, most specific guides and tutorials won't help, as it will limit your growth if you try to just "memorize" a list of setups. 
 
-## **<u>Sprint</u>** openers/ how to stack.
+As a general rule of thumb: 
 
-You should not rely on <u>**sprint**</u> openers. You should be able to sprint from any starter bag (exception being ZSO openers)
-
-You should be able to figure out your own "<u>**sprint**</u> openers" by playing the game and watching people better than you play. 
-
-(Note: Do not use <u>**versus**</u> openers in sprint)
-
-(Note: <u>**sprint**</u> openers are different from <u>**versus**</u> openers).
+1. Do not make piece dependencies.
+2. Plan ahead and make use of your piece previews.
 
 ## What controls should I use
 
 Use what ever is comfortable :) 
 
 There is no "best controls"
-
-
 
 ## What das/arr should I use
 
@@ -53,6 +49,28 @@ In games where you can customize arr and das, arr should be as low as possible (
 To pick a das start around 130ms / 8F (some games use frames which are 16.66 ms) and then keep lowering it until you cannot control it.  
 
 Your das should be probably be below 130 ms unless you have some sort of physical impairment. 
+
+## What is finesse/should I learn it
+
+Finesse is the method of placing a piece in a specific location with as few key presses as possible. (with low ARR)
+
+There is a specific optimal sequence of inputs for every single placement in the game.
+
+People often mean "**Perfect Finesse**" or "2 step finesse", when they refer to finesse. 
+
+Lots of top players do not have "perfect finesse" but will still have a set way of placing pieces. 
+
+Whether you decide you want to use the most optimal set of sequences is up to you. (Still use both rotations though.)
+
+## Should I learn 180 rotations
+
+If you want to. 
+
+Learning to rotate clockwise and counter-clockwise is most important. 180 is extra if you want to. 
+
+It doesn't make that big of a difference. 
+
+# Sprint specific advice
 
 ## Sprint time
 
@@ -67,6 +85,16 @@ Here are some rough guidelines to sprint
 | beginner     | 80 sec /1:20 min           | 2:00 min                |
 | new          | 3 min+/ DNF                | 3 min+/DNF              |
 
+## **<u>Sprint</u>** openers
+
+You should not rely on <u>**sprint**</u> openers. You should be able to sprint from any starter bag (exception being ZSO openers)
+
+You should be able to figure out your own "<u>**sprint**</u> openers" by playing the game and watching people better than you play. 
+
+(Note: Do not use <u>**versus**</u> openers in sprint)
+
+(Note: <u>**sprint**</u> openers are different from <u>**versus**</u> openers).
+
 ## How to get faster (sprint)
 
 Proper practice is key to improvement. Don't feel discouraged when you see people improving faster than you, you have to keep in mind the key factors to improvement. 
@@ -78,12 +106,70 @@ Proper practice is key to improvement. Don't feel discouraged when you see peopl
 
 Keep in mind that there is a difference between getting a new **personal best** and **improving**. 
 
-## How to get better
+## What is good finesse/what should my finesse be in sprint
+
+The finesse value in most games are finesse *faults*. 
+
+If you care about finesse 0, otherwise it doesn't really matter, probably under 15.
 
 ## 6-3 vs 9-0 vs 0-9 vs freestyle stacking for sprint
 
-## Finesse. (What should my finesse be, should I learn finesse, etc)
+```
+6-3
+|xxxxxx xxx|
+|xxxxxx xxx|
+|xxxxxx xxx|
+|xxxxxx xxx|
 
-## SRS stuff 
+9-0 (right well)
+|xxxxxxxxx |
+|xxxxxxxxx |
+|xxxxxxxxx |
+|xxxxxxxxx |
 
-## Tspin stuff
+0-9 (left well)
+| xxxxxxxxx|
+| xxxxxxxxx|
+| xxxxxxxxx|
+| xxxxxxxxx|
+
+freestyle (some people call it korean stacking, no well) 
+|          |
+|          |
+|          |
+|x xxx   xx|
+```
+
+| Style     | Pros                                             | Cons                                                         |
+| --------- | ------------------------------------------------ | ------------------------------------------------------------ |
+| 6-3       | More opportunities for better KPP                | More difficult to maintain                                   |
+| 9-0       | Easy to maintain                                 | Requires much more thinking to get low KPP                   |
+| 0-9       | Don't use this                                   | Has higher KPP than right well (9-0)                         |
+| freestyle | Allows for the lowest KPP and most possibilities | Hardest style of stacking to be fast at by far. Clearing lines requires much more mental processing power. Really bad on games with line clear delay |
+
+Any other style of stacking, 5-4, 7-2, 8-1 etc are bad and don't matter. 
+
+# Versus specific advice
+
+## Openers
+
+Learning openers is not as important as learning how to play the mid game. 
+
+An opener is just a transition from an empty board to mid game, don't focus on them too much until you are competent at mid game. You should never rely on openers to win games.
+
+Beginners can opt for a simple tetris as their opener. 
+
+Openers are also dependent on the game. 
+
+The most important opener to learn is TKI. https://four.lol/openers/tki
+
+## Is my opener good
+
+Short answer: no
+
+Long answer: Depends on a few factors, but most good openers have already been discovered. 
+
+1. If your opener uses a T piece in stack it is already bad.
+2. If your opener has a very low success chance it is bad.
+3. If your opener does not send at least 9 with the first 2 t pieces its most likely bad. 
+
