@@ -4,13 +4,21 @@
 
 1. Read the FAQ
 2. Think about your question before you ask.
-   1. Understand that **you do not deserve to have your question answered**. People are taking time out of their day to **help** you. 
+   1. Understand that people are taking time out of **their day** to **help you**. 
    2. Try and phrase your question in a way that makes it easier for the person answering.
       1. Try and be as specific as you can. (This does not mean write a wall of text for no reason)
-      2. Actually think about what you are trying to ask.
+      2. Be clear. It only slows down the process if people have to repeatedly ask for more detail or clarification.
+      3. Actually think about what you are trying to ask.
    3. Try and figure it out yourself first, before you ask. (It's easier to confirm something is right than to explain it from scratch)
       1. If it's gameplay related, try recording and watching yourself. 
       2. check faq
+
+## How to answer questions
+
+1. Make sure you actually know what you're qualified to talk about.
+2. If you can't explain what you're saying, then you probably don't understand it.
+3. Know what you *don't know*, if you don't know what you don't know, you're more likely to step out of your capability.
+4. Think before you answer, if you don't know the answer, don't say anything. 
 
 ## I'm a new player, where should I start.
 
@@ -18,7 +26,7 @@ If you are brand new, start by playing a game with **marathon mode**, just try y
 
 Once you are familiar with the game and its controls, try and complete a 40 line sprint only using tetrises.  (make sure to rotate in both directions)
 
-Once you can complete a tetris-only sprints consistently, try and lower your tetris-only sprint to around 2-1:30 - 2:00 minutes. 
+Once you can complete a tetris-only sprints consistently, try and lower your tetris-only sprint to around 1:30 - 2:00 minutes. 
 
 Once you've done that, you're now ready to play versus. 
 
@@ -70,6 +78,24 @@ Learning to rotate clockwise and counter-clockwise is most important. 180 is ext
 
 It doesn't make that big of a difference. 
 
+## How many previews do I need?
+
+In general you should use as many previews as the game allows you to use. Whether you're just checking previews for an upcoming piece or actually planning out all 5 pieces a head of time. Most good players use all previews.
+
+## Where do I look on the screen
+
+Depends on what is most comfortable to you. Some people prefer to use their peripheral vision to look at the queue/piece preview, others will dart their eyes back and fourth. See what works best for you, and try resizing the game window if that helps.
+
+## How to practice using (both rotates, all previews, finesse, etc)
+
+Most of these "how do I practice doing x" or "how to practice using x" questions just come down to being disciplined.  To practice using all previews, slow down and look at them. To practice using both rotates, slow down and rotate both ways. There's not really any secret to it. 
+
+## How to practice?
+
+1. Play a lot 
+2. Review your own replays and replays of people better than you
+3. If you get stuck see FAQ or ask a good question or buy coaching from me for 30$/hr
+
 # Sprint specific advice
 
 ## Sprint time
@@ -100,9 +126,9 @@ You should be able to figure out your own "<u>**sprint**</u> openers" by playing
 Proper practice is key to improvement. Don't feel discouraged when you see people improving faster than you, you have to keep in mind the key factors to improvement. 
 
 1. Time
-   1. If you don't actually spend the time to play the game, and review your own gameplay, you will not be able to improve.
+   - If you don't actually spend the time to play the game, and review your own gameplay, you will not be able to improve.
 2. Efficiency of practice
-   1. Some ways of practicing make better use of your time than others. For example, someone who restarts very frequently will get less practice per hour than someone who doesn't. 
+   - Some ways of practicing make better use of your time than others. For example, someone who restarts very frequently will get less practice per hour than someone who doesn't. 
 
 Keep in mind that there is a difference between getting a new **personal best** and **improving**. 
 
@@ -153,6 +179,8 @@ Any other style of stacking, 5-4, 7-2, 8-1 etc are bad and don't matter.
 
 ## Openers
 
+![](https://cdn.discordapp.com/attachments/567880609653981185/722220173280673814/unknown.png)
+
 Learning openers is not as important as learning how to play the mid game. 
 
 An opener is just a transition from an empty board to mid game, don't focus on them too much until you are competent at mid game. You should never rely on openers to win games.
@@ -172,4 +200,12 @@ Long answer: Depends on a few factors, but most good openers have already been d
 1. If your opener uses a T piece in stack it is already bad.
 2. If your opener has a very low success chance it is bad.
 3. If your opener does not send at least 9 with the first 2 t pieces its most likely bad. 
+
+## What setups should I learn?
+
+If you are unable complete a 40 line Tetris-only sprint in under 1:15 minutes (jstris/fast games) or 1:30 minutes Puyo Puyo Tetris (slow game) should focus on practicing that first.
+
+Once you can do that consistently, learn basic t-spins, check out garbo's tspin guide (the first part) https://www.youtube.com/watch?v=FI39WJqTLvA
+
+More advanced techniques (or "setups") would be t-spin forecasting, floating tspins and donated tspins. (expand later) https://four.lol/mid-game/donation https://four.lol/methods/stmb
 
