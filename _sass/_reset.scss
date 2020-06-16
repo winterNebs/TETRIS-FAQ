@@ -46,6 +46,7 @@ table {
 	border-spacing: 0;
 }
 table, th, td {
+  padding: 1em;
   border: 1px solid black;
 }
 tr:nth-child(odd) {background-color: #f2f2f2;}
