@@ -5,8 +5,7 @@
 ~~USD$ 35.00/hr~~ USD$ 30.00/hr (limited time sale while offers last)
 
 Message [winterNebs#2995 on discord](http://fourwi.de)
-## Find a mistake or want to add something? Contribute on github
-https://github.com/winterNebs/TETRIS-FAQ/
+## [Find a mistake or want to add something? Contribute on github](https://github.com/winterNebs/TETRIS-FAQ/)
 
 ## How to ask a good question
 
@@ -244,7 +243,7 @@ The most important opener to learn is TKI. https://four.lol/openers/tki
 
 **If you are unable complete a 40 line Tetris-only sprint in under 1:15 minutes (jstris/fast games) or 1:30 minutes Puyo Puyo Tetris (slow game) should focus on practicing that first.**
 
-Here is a list of openers by importance (four wide is omitted in this section, to learn [more read the section on four wide](#Four wide, 4-wide, 4w, 4-w c4w s4w whatever lol)) : 
+Here is a list of openers by importance (four wide is omitted in this section, to learn [more read the section on four wide](##four-wide-4-wide-4w-4-w-c4w-s4w-whatever-lol)) : 
 
 | Opener                                                       | Why                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -260,7 +259,7 @@ Here is a list of openers by importance (four wide is omitted in this section, t
 | <u>**BAD OPENERS**</u>                                       | <u>**Anything below this point is bad do not learn unless you want to I'm just text on your computer monitor**</u> |
 | BT Cannon                                                    | - Common "memorization opener"<br />- You will never be able to get the PC loop against a player with fingers<br />- Big noob trap, people often just memorize BT and try and win with the opener. If you're opponent is even close to equal skill you will lose. <br />- If you want to use a crutch pick c4w |
 | Humming bird                                                 | - Lol<br />- If you're gonna learn an opener, learn one that sends garbage |
-| PCO                                                          | - Read the section on ["Should I learn perfect clear opener?"](#PCO? Perfect Clear Opener? Should I learn perfect clears?)<br />- If you are reading this, you are not good enough to use it. |
+| PCO                                                          | - Read the section on ["Should I learn perfect clear opener?"](#pco-perfect-clear-opener-should-i-learn-perfect-clears)<br />- If you are reading this, you are not good enough to use it. |
 | Wolf moon cannon                                             | - It's not good                                              |
 | godspin                                                      | lol                                                          |
 | **<u>Anything else</u>**                                     | Anything else not mentioned here is also probably not worth using. |
