@@ -75,7 +75,7 @@ There is no "best controls"
 
 Some common layouts are:
 
-| Default Tetris Friends          | ![](https://cdn.discordapp.com/attachments/574712820994670594/722002614027550762/Diao-keys.png) |
+| Default Tetris Friends          | ![](https://cdn.discordapp.com/attachments/574712820994670594/722598713654247434/ArisaIchigaya-keys.png) |
 | ------------------------------- | ------------------------------------------------------------ |
 | **Split Rotate and move**       | ![](https://cdn.discordapp.com/attachments/574712820994670594/722084902568198224/brian-keys.png) |
 | **Controller style (reversed)** | ![](https://cdn.discordapp.com/attachments/574712820994670594/722106363253358626/MdestTomato-keys.png) |
@@ -136,7 +136,11 @@ If you insist on learning a pattern, learn the modern [LST stacking.](https://fo
 
 Infinite stacking patterns like, ST, LST, infinite TST, are usually only good for the "Ultra" game mode. You will rarely have the opportunity to use them in versus.
 
+## How do I get better at Perfect Clears? Mid game PC?
 
+[Here's some tips by some of the best people at PCs, JimothyJimothy and Cosin307](https://docs.google.com/document/d/1uhmsx4tPTQChV87JGa9nKma7CU4bSRgeEtctkxACeAE/edit)
+
+As for mid game pcs, they are really rare and mostly luck, there is no way to get more lucky. 
 
 # Sprint specific advice
 
@@ -234,7 +238,34 @@ Openers are also dependent on the game.
 
 The most important opener to learn is TKI. https://four.lol/openers/tki
 
-## Is my opener good
+## What openers should I learn?
+
+**If you are unable complete a 40 line Tetris-only sprint in under 1:15 minutes (jstris/fast games) or 1:30 minutes Puyo Puyo Tetris (slow game) should focus on practicing that first.**
+
+Here is a list of openers by importance (four wide is omitted in this section, to learn [more read the section on four wide](Four wide, 4-wide, 4w, 4-w c4w s4w whatever lol)) : 
+
+| Opener                                                       | Why                                                          |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [TKI 3](https://four.lol/openers/tki)                        | - Hands down the best overall opener in the game.<br />- Most flexible opener (Lots of TSD opportunities, TSD PC, TSD TSD PC, LST stacking). <br />- Keeps the stack low at all times, basically risk free. <br />- Basically can always do it with an early I piece. <br />- Easy to learn the basics, but has a lot of depth.<br />- Good in any game. |
+| [MKO](https://four.lol/openers/mko/)                         | - Not as popular as many of the newer "memorization openers" but still really good.<br />- Very flexible opener (can choose to do fast PC, TSDs, converts into 6-3 as well)<br />- Ends up with more of a stack than TKI<br />- Works when you have early LJ. <br />- Easy to learn basics, but has a lot of depth.<br />- Good in any game. |
+| [Hachi-spin](https://four.lol/openers/hachispin)             | - Hachi good.<br />- Fairly flexible (TSS TST PC, TSS TST LST stacking, TSS TST imperial cross)<br />- Ends up with a good stack<br />- only requires early OL or OJ<br />- Easy to learn basics, but has several follow ups.<br />- Good in PPT and other official games, decent in jstris, not that great for tetr.io |
+| [Albatross](https://four.lol/openers/albatross)              | - A more popular opener in recent times.<br />- Not very flexible, but fairly consistent (simple TSD TST TSD, or potential TSD PC)<br />- You'll basically always have a relatively low stack <br />- Needs early OL or OJ<br />- Easy to learn, not much depth, most people end up just mechanically memorizing it.<br />- Good in PPT and other official games, decent in jstris, not that great for tetr.io |
+| [Mr. T-spin](https://four.lol/openers/mr-tspin)              | - Not that popular but really good still ok guys plz use it instead of pco<br />- Not really any set follow ups, freestyle after TST.<br />- Stack is pretty low and good, except for weird looking L/J used for overhang<br />- Needs early OZ or OS<br />- Has a weird shape that might be easy to forget, but overall it is not that complicated<br />- Good in PPT and other official games, decent in jstris, not that great for tetr.io |
+| [Pelican](http://fumen.zui.jp/?v115@ChhlBewhQ4BtCeglRpwhR4BtAeg0glRpwhAeQ4Cei0?AewhJeAgWHAiSZTASomAAKhywHewwYeAgH1gBtDeglDeBtC?eglAeh0AezhQ4hlg0BeRph0S4g0whAeRpilR4JeAgWHAiSZ?TAS4oAAygwhBeBPDeglwhAeR4BPRpAtglyhAeQawwhlwSQp?QaAPhlwSQpBehWAeAPBeRpCegWKeAgHvgwhBeQaDehlwhAe?APQaAexDBeQagWBeQaBPh0gHQagWQpQaQpxhAtAegHBehlA?egWAeg0hHCeglKeAgHvgQaCehlBehWQaCewhglCewhglCeg?WQahHg0whglCegWwSgHAeg0EewhAegHh0OeAgHvhAAgH) | - Pretty unpopular opener as well but still pretty good<br />- Follow ups do exist. (TSD TST C-SPIN PC, TSD STSD, TSD TST TSD)<br />- Stack is ok<br />- Needs early JS or LZ<br />- Good in PPT and other official games, decent in jstris, not that great for tetr.io |
+| [DT cannon (Horizontal SZ base*)](https://four.lol/methods/dt-cannon) | - Super popular, a little overrated. **DO NOT USE VERTICAL DT or any other base**<br />- Follow ups are decent (DTS4W, DT C-Spin, DT Kaidan PC, DT shachiku train... etc)<br />- Stack is actually not that great (before the follow ups, which means you have to commit)<br />- Needs early L and J <br />- Good in PPT because it has low KPP to set up, using vertical dt or any other base nullifies this benefit. Ok on on faster games like jstris etc, but wouldn't recommend really. |
+| [C-Spin](https://four.lol/methods/triple-double#opening-c-spin) | - Vintage opener, not really used by new players anymore<br />- Kind of tricky to stack honestly, has some follow ups (TST TSD or TST TSS PC)<br />- Leaves you with clean and low field. <br />- Needs early LZ or JS and helps to have early I for the popular method. There are other bases as well that work on different bags.<br />- Ok in all games |
+| 6-3 stacking                                                 | - Honestly it's pretty good lol<br />- It's just stacking, basically as flexible as it gets. <br />- You lose on a bit of efficiency due to not being able to send anything in the first bag however. <br />Doesn't really depend on anything. <br />- Is ok in all games. |
+| <u>**BAD OPENERS**</u>                                       | <u>**Anything below this point is bad do not learn unless you want to I'm just text on your computer monitor**</u> |
+| BT Cannon                                                    | - Common "memorization opener"<br />- You will never be able to get the PC loop against a player with fingers<br />- Big noob trap, people often just memorize BT and try and win with the opener. If you're opponent is even close to equal skill you will lose. <br />- If you want to use a crutch pick c4w |
+| Humming bird                                                 | - Lol<br />- If you're gonna learn an opener, learn one that sends garbage |
+| PCO                                                          | - Read the section on ["Should I learn perfect clear opener?"](PCO? Perfect Clear Opener? Should I learn perfect clears?)<br />- If you are reading this, you are not good enough to use it. |
+| Wolf moon cannon                                             | - It's not good                                              |
+| godspin                                                      | lol                                                          |
+| **<u>Anything else</u>**                                     | Anything else not mentioned here is also probably not worth using. |
+
+*SZ base DT cannon ![](https://i.imgur.com/4mszRhq.png)
+
+## Is the opener I made good?
 
 Short answer: no
 
@@ -248,7 +279,7 @@ Long answer: Depends on a few factors, but most good openers have already been d
 
 ## What setups should I learn?
 
-If you are unable complete a 40 line Tetris-only sprint in under 1:15 minutes (jstris/fast games) or 1:30 minutes Puyo Puyo Tetris (slow game) should focus on practicing that first.
+**If you are unable complete a 40 line Tetris-only sprint in under 1:15 minutes (jstris/fast games) or 1:30 minutes Puyo Puyo Tetris (slow game) should focus on practicing that first.**
 
 Once you can do that consistently, learn basic t-spins, [check out garbo's tspin guide (the first part)](https://www.youtube.com/watch?v=FI39WJqTLvA)
 
