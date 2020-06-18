@@ -113,7 +113,30 @@ Some top players don't use 180, it doesn't make that big of a difference.
 
 ## How many previews do I need to use?
 
-In general you should use as many previews as the game allows you to use. Whether you're just checking previews for an upcoming piece or actually planning out all 5 pieces a head of time. Most good players use all previews.
+In general you should use as many previews as the game allows you to use. Whether you're just checking previews for an upcoming piece or actually planning out all 5 pieces ahead of time. Most good players use all previews.
+
+## How do I use piece previews effectively? Dependencies?  
+
+To leverage piece previews effectively, you want to plan out your current placement in a way that accommodates your next pieces and avoids creating dependencies.
+
+Consider this field, with your current piece being an L. ![](https://i.imgur.com/pUNEyM7.png)
+
+If your next piece is a Z, T, L you would probably place it like this ![](https://i.imgur.com/l4dRyP1.png)
+
+If your next piece is a J or I, you would probably place it like ![](https://i.imgur.com/6bwhytv.png)
+
+If your next pieces are S or O it depends on the rest of your field. 
+
+## How to hold effectively? 
+
+Hold is used effectively in the following scenarios:
+
+- Saving an I or a T piece 
+- When you cannot place your current piece in a good spot
+- When you require your held piece before your current piece
+- Stalling
+
+The biggest mistake people use hold for is to switch/shuffle the order of pieces, when the same placements are possible without holding.
 
 ## Where do I look on the screen?
 
@@ -142,6 +165,42 @@ Infinite stacking patterns like, ST, LST, infinite TST, are usually only good fo
 [Here's some tips by some of the best people at PCs, JimothyJimothy and Cosin307](https://docs.google.com/document/d/1uhmsx4tPTQChV87JGa9nKma7CU4bSRgeEtctkxACeAE/edit)
 
 As for mid game pcs, they are really rare and mostly luck, there is no way to get more lucky. 
+
+## What is Parity? How do I learn Parity?
+
+**TLDR**: Parity is a nerd trap. The use of parity in Tetris aims to solve the problem of "stacking" without holes. In reality just thinking about parity will not give you a conclusive answer as to whether a stack is good or not (ie. whether it is maintainable or has severe dependencies on certain pieces). It is still necessary to think about the dependencies themselves, thus making parity extra work for no reason. **Most good players can already evaluate stacks intuitively, and can visualize piece dependencies through practice.** 
+
+### Explanation:
+
+Parity is the mathematical concept of even/oddness. If you imagine a checkerboard pattern, you can see the "parity" of each piece by looking at the number of black and white squares it would occupy. ![](https://i.imgur.com/YKusYen.png) 
+
+So using this we can discover that all the pieces have even parity, except for the T piece, which has odd parity (3:1 ratio).
+
+ ![](https://i.imgur.com/Ez93rfD.png)
+
+So the only way to change the "parity" of a field in Tetris is either to use a T piece or to clear an odd number of lines. If you really can't help yourself but read more here is an article https://harddrop.com/wiki/Parity
+
+### Conclusion
+
+Parity gets complicated once you actually start to look at examples, for example ![](https://media.discordapp.net/attachments/496289749745664000/573780977948557313/unknown.png)![](https://i.imgur.com/RK4Nkw8.png)
+
+This stack seems to be have good local parity and surface parity, but in reality is actually a terrible stack. The problem parity solves requires another solution, which can solve the problem itself, making the use of parity obsolete. In reality you should try and visualize your stack, and create surfaces that accommodate as many pieces as possible. If you think you can explain parity better than hd wiki, let me know. 
+
+## Does this setup have a name? Is this setup worth naming?
+
+Most useful/practical setups have already been discovered. It is common for newer players to want to "invent" something to "become a part of Tetris history", but first you have to evaluate whether you setup is even worth looking at.
+
+A good setup is usually has the following qualities:
+
+1. It is a flexible shape/setup leading to it. Example of bad:
+
+    ![](https://i.imgur.com/m0iaZmW.png)
+
+2. It is not a large commitment. An example of bad: 
+
+![](https://i.imgur.com/aGaXGgc.png)
+
+There are 2^20 possible board states in Tetris (2^40 if you include the hidden rows), most of them are not worth naming. 
 
 # Sprint specific advice
 
@@ -224,6 +283,10 @@ Some things that can help lower KPP:
 - Learn about advanced techniques like das preservation, rotating less, and think A LOT.
 
 Like stacking there isn't a definitive way of getting good, just practice and be analytical. 
+
+## SRS 
+
+
 
 # Versus specific advice
 
@@ -330,7 +393,7 @@ Here are a list of common "GOOD" counters **that are actually not that good**: (
 | Giving up/disconnecting           | Lose the battle, but win the war. :)                         |
 | BT cannon/ any loop               | While reliable, unless you are extremely fast, this wont never be enough to kill. |
 
-Most people tend to pick, and even recommend :scream_cat: , **sub-optimal strategies** to counter c4w and then "**out play during the mid game**". And while that is all fine and good, the real issue is all of these strategies will **never put you even, always behind**. (Obviously if the opponent messes up then its different, but if you opponent suicides you win so there's no point to even say this ok?). Also "being better than your opponent" is not a valid strategy. 
+Most people tend to pick, and even recommend :scream_cat: , **sub-optimal strategies** to counter c4w and then "**out play during the mid game**". And while that is all fine and good, the real issue is all of these strategies will **never put you even, always behind**. (Obviously if the opponent messes up then its different, but if your opponent suicides you win so there's no point to even say this ok?). Also "being better than your opponent" is not a valid strategy. 
 
 ## If you don't want to read, you can consider purchasing personalized coaching from me
 
