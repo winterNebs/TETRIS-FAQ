@@ -224,11 +224,7 @@ So the only way to change the "parity" of a field in Tetris is either to use a T
 
 ### Conclusion
 
-Something about row parity 
-
-??
-
-This stack seems to be have good local parity and surface parity, but in reality is actually a terrible stack. The problem parity solves requires another solution, which can solve the problem itself, making the use of parity obsolete. In reality you should try and visualize your stack, and create surfaces that accommodate as many pieces as possible. If you think you can explain parity better than hd wiki, let me know. 
+Something about row parity ??
 
 ## Does this setup have a name? Is this setup worth naming?
 
