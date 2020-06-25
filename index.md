@@ -1,4 +1,4 @@
-# Tetris FAQ
+# Tetris FAQ for [Four Wide](http://fourwi.de)
 
 ## If you don't want to read, you can consider purchasing personalized coaching from me
 
@@ -43,6 +43,48 @@ Once you can complete Tetris-only sprints consistently, try and lower your Tetri
 Once you've done that, you're now ready to play versus. 
 
 Hop into a versus game and good luck!
+
+
+
+## Where do I find people to play against? 
+
+If your game has native matchmaking support, like tetr.io or puyo puyo tetris, you can use the matchmaking feature. Otherwise join the [Matchmaking Central (MMC)](https://discord.gg/yvUQwhq) discord, which has matchmaking based on skill level. 
+
+## What communities should I join?
+
+Learn Tetris: [Check out the four wide discord server](http://fourwi.de/) 
+
+Game specific communities:  [jstris](https://discord.gg/RcNFCZC), [tetrio](https://discord.gg/ufDb2XJ), [wwc](https://discord.gg/wwc), [king of stackers](https://discord.gg/hVsbAAC), [tds](https://discord.gg/KTN3rnw), salty cup? 
+
+Specialized communities?  [T-Spins](https://discord.gg/JRCAQM5)
+
+ [Matchmaking Central (MMC)](https://discord.gg/yvUQwhq) 
+
+[Why not hard drop?](harddrop)
+
+## Who to watch? 
+
+Puyo Puyo Tetris: [kazu](https://www.youtube.com/channel/UC4ldIp7QXgOObJ7QcvfIJpg), [amemiya](https://www.youtube.com/channel/UCHog7L3CzsDg2GH9aza1bPg)
+
+Jstris: Look at leaderboards / [jstris cup?](https://www.youtube.com/watch?v=EcqhI5wtWLU&t=7651s)
+
+Tetrio: ?? ?? ? ?? watch later part of [ggc?](https://www.twitch.tv/videos/643856954?t=04h16m43s)
+
+
+
+## What Tetris Resources are there? 
+
+The only real good wiki in terms of accuracy for vs is [four.lol](https://four.lol/)
+
+Here are some other wikis that you can look at if you're just interested in look at setups. Looking at setups is a noob trap, use at your own risk. (Just look at the diagrams, it doesn't' matter if you can't read Japanese)
+
+[tetrisopener.wicurio.com](https://tetrisopener.wicurio.com/index.php)
+
+[atwiki tetrismaps](https://w.atwiki.jp/tetrismaps)
+
+[list of looping openers](https://gall.dcinside.com/mgallery/board/view?id=pute&no=6695)
+
+[hd wiki](https://harddrop.com/wiki/Tetris_Wiki)
 
 ## How do I get faster?
 
@@ -182,7 +224,9 @@ So the only way to change the "parity" of a field in Tetris is either to use a T
 
 ### Conclusion
 
-Parity gets complicated once you actually start to look at examples, for example ![](https://media.discordapp.net/attachments/496289749745664000/573780977948557313/unknown.png)![](https://i.imgur.com/RK4Nkw8.png)
+Something about row parity 
+
+??
 
 This stack seems to be have good local parity and surface parity, but in reality is actually a terrible stack. The problem parity solves requires another solution, which can solve the problem itself, making the use of parity obsolete. In reality you should try and visualize your stack, and create surfaces that accommodate as many pieces as possible. If you think you can explain parity better than hd wiki, let me know. 
 
