@@ -30,6 +30,10 @@ The most important opener to learn is TKI. https://four.lol/openers/tki
 **If you are unable complete a 40 line Tetris-only sprint in under 1:15 minutes (jstris/fast games) or 1:30 minutes Puyo Puyo Tetris (slow game) should focus on practicing that first.**
 
 Here is a list of openers by importance (four wide is omitted in this section, to learn [more read the section on four wide](#four-wide-4-wide-4w-4-w-c4w-s4w-whatever-lol)) : 
+:::note
+this section will probably be split up by game later.
+TKI 3 and MKO will be best regardless of game, however
+:::
 
 | Opener                                                       | Why                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -110,7 +114,7 @@ Here are a list of common "GOOD" counters **that are actually not that good**: (
 
 | Strat                             | Why it is not that good                                      |
 | --------------------------------- | ------------------------------------------------------------ |
-| Side 4 wide                       | This strategy will only work if you can stack faster than your opponent, which generally is true for side 4w since it is easier to stack. But if your opponent is the same speed as you, it becomes a game of who can reach the top without dying, which C4w always wins, because center well allows you to receive up to 18 lines of garbage without dying. |
+| Side 4 wide                       | This strategy will only work if you can stack faster than your opponent. If your opponent is the same speed as you, it becomes a game of who can reach the top without dying, which C4w always wins, because center well allows you to receive up to 18 lines of garbage without dying. |
 | 3 perfect clears                  | This strategy is insanely difficult to pull of fast enough, not to mention most players are not even able get 3 perfect clears consistently. <br />2 perfect clears can work if you are much faster than your opponent, but usually it will just cut their combo short. Also even 2 perfect clears is really hard to pull of every single game. |
 | TKI PC / Hachi PC / any t-spin pc | This strategy is more consistent to execute than only perfect clears, but requires you to have the right bag to start out with, which will limit the number of times you even get to use this. The other issue is it only can only send up to 20, which is only barely enough to kill c4w. (Note you will not always get maximum damage due to the fact that you have to take incomplete t-spins to get the perfect clear) |
 | Giving up/disconnecting           | Lose the battle, but win the war. :)                         |

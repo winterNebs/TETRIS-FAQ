@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\docs",
+    "\\src",
+    "\\src\\css",
+    "\\src\\pages",
+    "\\static",
+    "\\static\\img"
   ],
-  "SelectedNode": "\\static",
+  "SelectedNode": "\\babel.config.js",
   "PreviewInSolutionExplorer": false
 }
