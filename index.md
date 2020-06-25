@@ -82,7 +82,7 @@ Here are some other wikis that you can look at if you're just interested in look
 
 [atwiki tetrismaps](https://w.atwiki.jp/tetrismaps)
 
-[list of looping openers](https://gall.dcinside.com/mgallery/board/view?id=pute&no=6695)
+[list of looping openers](https://docs.google.com/spreadsheets/d/1NdmqvsA04lySuB6BLIwCr4aVrCOb2QtgO-839Oj-34k/htmlview)
 
 [hd wiki](https://harddrop.com/wiki/Tetris_Wiki)
 
