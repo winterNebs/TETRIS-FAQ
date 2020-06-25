@@ -50,7 +50,7 @@ module.exports = {
             },
             {
               label: 'threewi.de',
-              href: 'https://threewi.de',
+              href: 'http://threewi.de',
             },
           ],
         },
@@ -82,7 +82,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/winterNebs/TETRIS-FAQ/edit/master/website/',
+            'https://github.com/winterNebs/TETRIS-FAQ/edit/master/',
         },
         //blog: {
         //  showReadingTime: true,
