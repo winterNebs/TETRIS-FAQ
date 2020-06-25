@@ -9,10 +9,6 @@ title: Versus Specific Advice
 
 :::
 
-
-
-# Versus specific advice
-
 ## Openers
 :::important
 Learning openers is not as important as learning how to play the mid game. 
@@ -116,10 +112,4 @@ Here are a list of common "GOOD" counters **that are actually not that good**: (
 | Giving up/disconnecting           | Lose the battle, but win the war. :)                         |
 | BT cannon/ any loop               | While reliable, unless you are extremely fast, this wont never be enough to kill. |
 
-Most people tend to pick, and even recommend :scream_cat: , **sub-optimal strategies** to counter c4w and then "**out play during the mid game**". And while that is all fine and good, the real issue is all of these strategies will **never put you even, always behind**. (Obviously if the opponent messes up then its different, but if your opponent suicides you win so there's no point to even say this ok?). Also "being better than your opponent" is not a valid strategy. 
-
-## If you don't want to read, you can consider purchasing personalized coaching from me
-
-### ~~USD$ 35.00/hr~~ USD$ 30.00/hr (limited time sale while offers last)
-
-Message [winterNebs#2995 on discord](http://fourwi.de)
+Most people tend to pick, and even recommend :scream_cat:, **sub-optimal strategies** to counter c4w and then "**out play during the mid game**". And while that is all fine and good, the real issue is all of these strategies will **never put you even, always behind**. (Obviously if the opponent messes up then its different, but if your opponent suicides you win so there's no point to even say this ok?). Also "being better than your opponent" is not a valid strategy. 

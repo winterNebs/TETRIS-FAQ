@@ -21,33 +21,23 @@ Once you've done that, you're now ready to play versus.
 
 Hop into a versus game and good luck!
 
-
-
 ## Where do I find people to play against? 
 
 If your game has native matchmaking support, like tetr.io or puyo puyo tetris, you can use the matchmaking feature. Otherwise join the [Matchmaking Central (MMC)](https://discord.gg/yvUQwhq) discord, which has matchmaking based on skill level. 
 
 ## What communities should I join?
 
-Learn Tetris: [Check out the four wide discord server](http://fourwi.de/) 
-
-Game specific communities:  [jstris](https://discord.gg/RcNFCZC), [tetrio](https://discord.gg/ufDb2XJ), [wwc](https://discord.gg/wwc), [king of stackers](https://discord.gg/hVsbAAC), [tds](https://discord.gg/KTN3rnw), salty cup? 
-
-Specialized communities?  [T-Spins](https://discord.gg/JRCAQM5)
-
- [Matchmaking Central (MMC)](https://discord.gg/yvUQwhq) 
-
-[Why not hard drop?](harddrop)
+- Learn Tetris: [Check out the four wide discord server](http://fourwi.de/) 
+- Game specific communities:  [jstris](https://discord.gg/RcNFCZC), [tetrio](https://discord.gg/ufDb2XJ), [wwc](https://discord.gg/wwc), [king of stackers](https://discord.gg/hVsbAAC), [tds](https://discord.gg/KTN3rnw), salty cup? 
+- Specialized communities?  [T-Spins](https://discord.gg/JRCAQM5)
+- [Matchmaking Central (MMC)](https://discord.gg/yvUQwhq) 
+- [Why not hard drop?](hd)
 
 ## Who to watch? 
 
-Puyo Puyo Tetris: [kazu](https://www.youtube.com/channel/UC4ldIp7QXgOObJ7QcvfIJpg), [amemiya](https://www.youtube.com/channel/UCHog7L3CzsDg2GH9aza1bPg)
-
-Jstris: Look at leaderboards / [jstris cup?](https://www.youtube.com/watch?v=EcqhI5wtWLU&t=7651s)
-
-Tetrio: ?? ?? ? ?? watch later part of [ggc?](https://www.twitch.tv/videos/643856954?t=04h16m43s)
-
-
+- Puyo Puyo Tetris: [kazu](https://www.youtube.com/channel/UC4ldIp7QXgOObJ7QcvfIJpg), [amemiya](https://www.youtube.com/channel/UCHog7L3CzsDg2GH9aza1bPg)
+- Jstris: Look at leaderboards / [jstris cup?](https://www.youtube.com/watch?v=EcqhI5wtWLU&t=7651s)
+- Tetrio: ?? ?? ? ?? watch later part of [ggc?](https://www.twitch.tv/videos/643856954?t=04h16m43s)
 
 ## What Tetris Resources are there? 
 
@@ -57,14 +47,13 @@ Here are some other wikis that you can look at if you're just interested in look
 :::warning
 Looking at setups is a noob trap, use at your own risk.
 :::
+
 Just look at the diagrams, it doesn't' matter if you can't read Japanese/Korean
-[tetrisopener.wicurio.com](https://tetrisopener.wicurio.com/index.php)
 
-[atwiki tetrismaps](https://w.atwiki.jp/tetrismaps)
-
-[list of looping openers](https://docs.google.com/spreadsheets/d/1NdmqvsA04lySuB6BLIwCr4aVrCOb2QtgO-839Oj-34k/htmlview)
-
-[hd wiki](https://harddrop.com/wiki/Tetris_Wiki)
+- [tetrisopener.wicurio.com](https://tetrisopener.wicurio.com/index.php)
+- [atwiki tetrismaps](https://w.atwiki.jp/tetrismaps)
+- [list of looping openers](https://docs.google.com/spreadsheets/d/1NdmqvsA04lySuB6BLIwCr4aVrCOb2QtgO-839Oj-34k/htmlview)
+- [hd wiki](https://harddrop.com/wiki/Tetris_Wiki)
 
 ## How do I get faster?
 
@@ -224,4 +213,4 @@ A good setup is usually has the following qualities:
 
 ![](https://i.imgur.com/aGaXGgc.png)
 
-There are 2^20 possible board states in Tetris (2^40 if you include the hidden rows), most of them are not worth naming. 
+There are 2<sup>20</sup> possible board states in Tetris (2<sup>40</sup> if you include the hidden rows), most of them are not worth naming. 
