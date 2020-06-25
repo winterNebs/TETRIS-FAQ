@@ -1,8 +1,8 @@
 module.exports = {
   title: 'TETRIS-FAQ',
   tagline: 'Finally good info',
-  url: 'https://docusaurus-2.netlify.com',
-  baseUrl: '/',
+    url: 'https://winternebs.github.io/TETRIS-FAQ',
+    baseUrl: '/TETRIS-FAQ/',
   favicon: 'img/favicon.ico',
   organizationName: 'winterNebs', // Usually your GitHub org/user name.
   projectName: 'TETRIS-FAQ', // Usually your repo name.
