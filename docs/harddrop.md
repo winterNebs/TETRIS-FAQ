@@ -3,19 +3,14 @@ id: hd
 title: Why not Hard Drop?
 ---
 
-# Hard Drop?
-
 ## What is Hard Drop? 
 
 There is no denying that harddrop is the largest tetris community by far. It is run entirely by Blink. 
 
-Discord [https://discord.gg/harddrop](https://discord.gg/harddrop)
-
-Twitch channel [https://www.twitch.tv/harddrop](https://www.twitch.tv/harddrop)
-
-Twitter [https://twitter.com/harddrop/](https://twitter.com/harddrop/)
-
-Blink's youtube xd [https://www.youtube.com/user/illblink/featured]
+- Discord [https://discord.gg/harddrop](https://discord.gg/harddrop)
+- Twitch channel [https://www.twitch.tv/harddrop](https://www.twitch.tv/harddrop)
+- Twitter [https://twitter.com/harddrop/](https://twitter.com/harddrop/)
+- Blink's youtube xd https://www.youtube.com/user/illblink/featured
 
 It is hard to deny what Blink has done in the past (running forums, wiki's and tournaments), but that does not mean he is immune to criticism. 
 

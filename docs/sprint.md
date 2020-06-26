@@ -9,10 +9,6 @@ title: Sprint Specific Advice
 
 :::
 
-
-
-# Sprint specific advice
-
 ## What is a good sprint time? Is my sprint time good?
 
 "Good" is subjective but here are some general guidelines:
