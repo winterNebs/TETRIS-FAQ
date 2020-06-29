@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>TETRIS-FAQ</ShortName>
+  <Description>Search TETRIS-FAQ</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://winternebs.github.io/TETRIS-FAQ/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://winternebs.github.io/TETRIS-FAQ/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://winternebs.github.io/TETRIS-FAQ/opensearch.xml" />
+  <moz:SearchForm>https://winternebs.github.io/TETRIS-FAQ</moz:SearchForm>
+</OpenSearchDescription>
