@@ -8,6 +8,10 @@ module.exports = {
   projectName: 'TETRIS-FAQ', // Usually your repo name.
   themeConfig: {
     disableDarkMode: true,
+    algolia: {
+      apiKey: 'adee4080c95683ecf65a415c1d4889db',
+      indexName: 'winternebs_tetris-faq',
+    },
     navbar: {
       title: 'TETRIS-FAQ',
       logo: {
