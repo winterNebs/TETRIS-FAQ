@@ -209,6 +209,7 @@ Focus on the rows and try and visualize how your upcoming pieces fit into that r
 "Dead" board, or "dead" state, is a term I like to use to describe fields that have no easy T-spin opportunities. 
 
 ### Space and T 
+stsd bad
 
 ### What is practical
 
