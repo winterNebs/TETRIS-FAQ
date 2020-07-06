@@ -31,6 +31,12 @@ this section will probably be split up by game later.
 TKI 3 and MKO will be best regardless of game, however
 :::
 
+:::warning
+
+This section is not as good as i would like it to be. I will probably update this with the openers you should use, in order of priority. TKI still best opener tho
+
+:::
+
 | Opener                                                       | Why                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [TKI 3](https://four.lol/openers/tki)                        | - Hands down the best overall opener in the game.<br />- Most flexible opener (Lots of TSD opportunities, TSD PC, TSD TSD PC, LST stacking). <br />- Keeps the stack low at all times, basically risk free. <br />- Basically can always do it with an early I piece. <br />- Easy to learn the basics, but has a lot of depth.<br />- Good in any game. |
@@ -71,6 +77,8 @@ Long answer: Depends on a few factors, but most good openers have already been d
 Once you can do that consistently, learn basic t-spins, [check out garbo's tspin guide (the first part)](https://www.youtube.com/watch?v=FI39WJqTLvA)
 
 More advanced techniques (or "setups") would be t-spin forecasting, floating tspins and donated tspins. (expand later) https://four.lol/mid-game/donation https://four.lol/methods/stmb
+
+[Check out the t-spin guide](https://winternebs.github.io/TETRIS-FAQ/tspin)
 
 ## PCO? Perfect Clear Opener? Should I learn perfect clears?
 

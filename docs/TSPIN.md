@@ -206,12 +206,85 @@ Focus on the rows and try and visualize how your upcoming pieces fit into that r
 
 ### Dead boards
 
-"Dead" board, or "dead" state, is a term I like to use to describe fields that have no easy T-spin opportunities. 
 
-### Space and T 
-stsd bad
+"Dead" board, or "dead" state, is a term I like to use to describe fields that have no easy T-spin opportunities. While there are ways to fix dead boards, the whole point of good stacking is to make your life easier. It will be obvious what the next move is on a good board, on a bad board you will have to think more. 
 
-### What is practical
+Basically avoid getting in these sorts of situations at all costs.
+
+#### Two wide:
+
+![](https://i.imgur.com/xFqdWWX.png)
+
+There is basically no way to easily create a T-spin when your well is 2-wide.
+
+Your best bet is to even out the height difference and put an I piece in the well.
+
+### Overhang residue
+
+In most cases it will be a 2 wide gap, usually it will require some sort of tuck or skim to fix it.
+
+
+
+![](https://i.imgur.com/Mnwy2Rj.png)
+
+### Side well
+
+You cannot make a T shape above the well, you will have to do donations instead.
+
+![](https://i.imgur.com/uGlewSQ.png)
+
+#### 8-1 Stacking
+
+Similar to side well, but you now have an I piece dependency 
+
+![](https://i.imgur.com/QBXkXeN.png)
+
+
+
+#### Any combination
+
+2w side well etc, is still bad, combining them does not fix anything.
+
+### What is practical?
+
+A practical setup never compromises your stack. 
+
+When deciding which setup/technique to use, knowing when it is practical to use is key.
+
+:::caution
+
+This part still needs to be thought about lol most of the stuff is good, just needs to be explained better/
+:::
+
+#### Space, T(ime), and commitments
+
+The three main criteria for judging practicality is space, time (when your next T piece is), and commitment. 
+
+Space and time are related, and if the ratio is incorrect, you will have an impractical setup.
+
+##### STSD
+
+STSD is popular setup that is often misused. 
+
+STSD is an extremely space efficient setup, cramming in 2 tsds into a 3x3 area, which is why a lot of people like to use it. You get the most bang for your buck, no other setup can do that. (basically just make a square with a S/Z or L/J) 
+
+![](https://i.imgur.com/ZvYq9pi.png)
+
+The issue here is time and commitment. If you don't have the T pieces, this setup will create a hole in your stack, because you will be forced to build around it. If you have the T's immediately, then obviously it's good. 
+
+STSD without T pieces:
+
+![](https://i.imgur.com/7CU26Sm.png)
+
+After you get the T's to clear the stsd, you're left with a dead board.
+
+Let's look at an alternative of stacked tsds. 
+
+![](https://i.imgur.com/AM9rnUQ.png)
+
+This LST shape has the potential for 2 tsds, much like the STSD, but it takes up much more time and space. Having more time means you don't c
+
+
 
 ### TST?
 
