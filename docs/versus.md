@@ -31,7 +31,7 @@ What we can taskeaway from this is that singles send nothing, and short combos a
 
 The values for tetrio are roughly the same. Tetrio has more inflated attack values, but you can do this calculation yourself. 
 
-##### Attacking
+### Attacking
 
 Knowing how you can maximize your clears is important to playing efficiently.
 
@@ -49,7 +49,7 @@ Technically b2b TSS is the most efficient but you are limited in the number of T
 
 :::
 
-##### Defending
+### Defending
 
 :::note
 
@@ -66,7 +66,7 @@ This is still an oversimplification, as stated in the other note.
 | T-Spin (single, double, triple) | `3 ` , or (`4, 3.5, 3.33  `) with b2b                     | Notably worse than tetrises actually                         |
 | Combo                           | [Full calculations here](https://i.imgur.com/LSpG9gQ.png) | Interesting breakpoints:<br />Anything under 4 combo is worse than a triple.<br />High combo is best efficiency |
 
-#### Conclusion
+### Conclusion
 
 Only combo when you have at least a 6 combo.
 
