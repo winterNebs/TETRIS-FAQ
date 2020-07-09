@@ -9,7 +9,75 @@ title: Versus Specific Advice
 
 :::
 
+## How do I play vs? What is good vs? What is efficiency? How do I get better?
+
+### Basic guideline rules
+
+To be able to play any game well, you must first understand the rules. In 1v1 tetris, players send **garbage** to each other. 
+
+The amount of garbage depends on the type of attack. 
+
+| Type of attack        | Guideline games (PPT, Jstris, TOP)                      | Tetriomegalul                                                |
+| --------------------- | ------------------------------------------------------- | ------------------------------------------------------------ |
+| Single, Double Triple | `Lines cleared - 1`                                     | Same                                                         |
+| Tetris                | `4` (+1 with b2b)                                       | Same but there's back to back chaining for some reason       |
+| T-Spin                | `2 x lines cleared`(+1 with b2b)                        | Same but there's back to back chaining for some reason       |
+| Combo                 | `0,0,1,1,1,2,2,3,3,4,4,4,5` (stacks with other attacks) | [Uses unnecessarily complicated combo table](https://media.discordapp.net/attachments/673303546564968566/716080410702118922/2020-05-30_02-07-18.png) |
+| Perfect Clear         | `8`-`10` (depends on the game and rules)                | 10 and stacks with other attacks                             |
+
+What we can taskeaway from this is that singles send nothing, and short combos also barely send anything. 
+
+### How to play efficiently 
+
+The values for tetrio are roughly the same. Tetrio has more inflated attack values, but you can do this calculation yourself. 
+
+##### Attacking
+
+Knowing how you can maximize your clears is important to playing efficiently.
+
+| Type of attack                  | Attack / Line                                             | Notes                                                        |
+| ------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------ |
+| Single, Double, Triple          | `0, 0.5, 0.67`                                            | As you can see singles literally do nothing                  |
+| Tetris                          | `1` or `1.25` with b2b                                    | Significantly better than above                              |
+| T-Spin (single, double, triple) | `2` , or (`3,2.5,2.33  `) with b2b                        | An improvement again                                         |
+| Combo                           | [Full calculations here](https://i.imgur.com/ROJFWrI.png) | Interesting breakpoints:<br />Anything under 5 combo is worse than a triple.<br />Aim for 7+ combo for good efficiency |
+| Perfect Clear                   | 10/???                                                    | Not reliable to execute in vs.                               |
+
+:::note
+
+Technically b2b TSS is the most efficient but you are limited in the number of T pieces you have, so it is impossible to clear all lines with TSS , so if possible clearing a TSD or TST will give you more value for that piece.
+
+:::
+
+##### Defending
+
+:::note
+
+`Defend = Attack + Lines cleared`, since in most games you can use attack to cancel incoming garbage.
+
+This is still an oversimplification, as stated in the other note.
+
+:::
+
+| Type of attack                  | Defend / Line                                             | Notes                                                        |
+| ------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------ |
+| Single, Double, Triple          | `1, 1.5, 1.67`                                            |                                                              |
+| Tetris                          | `4` or `4.5` with b2b                                     | Significantly better than above                              |
+| T-Spin (single, double, triple) | `3 ` , or (`4, 3.5, 3.33  `) with b2b                     | Notably worse than tetrises actually                         |
+| Combo                           | [Full calculations here](https://i.imgur.com/LSpG9gQ.png) | Interesting breakpoints:<br />Anything under 4 combo is worse than a triple.<br />High combo is best efficiency |
+
+#### Conclusion
+
+Only combo when you have at least a 6 combo.
+
+Your priority should be maintaining b2b with t-spins and tetrises when possible. 
+
+Breaking back to back to get another T-Spin double is not that bad actually, same with skimming to get a Tetris when defending. 
+
+
+
 ## Openers
+
 :::important
 Learning openers is not as important as learning how to play the mid game. 
 :::
@@ -21,6 +89,7 @@ Openers are also dependent on the game.
 :::tip
 The most important opener to learn is TKI. https://four.lol/openers/tki
 :::
+
 ## What openers should I learn?
 
 **If you are unable complete a 40 line Tetris-only sprint in under 1:15 minutes (jstris/fast games) or 1:30 minutes Puyo Puyo Tetris (slow game) should focus on practicing that first.**
