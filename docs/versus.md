@@ -25,11 +25,12 @@ The amount of garbage depends on the type of attack.
 | Combo                 | `0,0,1,1,1,2,2,3,3,4,4,4,5` (stacks with other attacks) | [Uses unnecessarily complicated combo table](https://media.discordapp.net/attachments/673303546564968566/716080410702118922/2020-05-30_02-07-18.png) |
 | Perfect Clear         | `8`-`10` (depends on the game and rules)                | 10 and stacks with other attacks                             |
 
-What we can taskeaway from this is that singles send nothing, and short combos also barely send anything. 
-
+What we can takeaway from this is that singles send nothing, and short combos also barely send anything. 
+:::Note
+The values for tetrio are roughly the same. Tetrio has more inflated attack values, but you can do this calculation yourself. 
+:::
 ### How to play efficiently 
 
-The values for tetrio are roughly the same. Tetrio has more inflated attack values, but you can do this calculation yourself. 
 
 ### Attacking
 
