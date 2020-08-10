@@ -87,7 +87,7 @@ To prevent games for lasting forever, most modern games have some form "Hurry up
 
 This is kind of ruins the whole set, since the winner is just who has a spike at the end. 
 
-I would suggest to insert the garbage at a lower rate, like 1 line every 15 seconds.
+I would suggest to insert the garbage at a lower rate, like 1 line every 15 seconds or increase messiness (thanks dre)
 
 ## Gravity
 
