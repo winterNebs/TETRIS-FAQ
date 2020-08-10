@@ -99,9 +99,12 @@ Gravity is not the point of tetris.
 
 After reading everything above you should be able to put two and two together.
 
+## why do people gotta force their shitty opinions and post it on a website like some objective analysis
+
 
 
 # things that wont ever happen but we can dream
 
 ## all spins
+
 
