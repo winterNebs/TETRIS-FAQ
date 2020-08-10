@@ -195,3 +195,24 @@ Here are a list of common "GOOD" counters **that are actually not that good**: (
 | BT cannon/ any loop               | While reliable, unless you are extremely fast, this wont never be enough to kill. |
 
 Most people tend to pick, and even recommend :scream_cat:, **sub-optimal strategies** to counter c4w and then "**out play during the mid game**". And while that is all fine and good, the real issue is all of these strategies will **never put you even, always behind**. (Obviously if the opponent messes up then its different, but if your opponent suicides you win so there's no point to even say this ok?). Also "being better than your opponent" is not a valid strategy. 
+
+
+
+## Powerstacking
+
+Powerstacking is basically the culmination of the problem with modern tetris games. 
+
+Powerstacking is a type of stacking that allows the faster player to leverage the speed difference between them and their opponent.
+
+The general idea of powerstacking, is just simply abusing combo by creating a large combo well over your current well. 
+
+Stacking is usually the easiest for most people (just compare their vs pps to sprint pps) so this allows you to build up a significant attack without much thinking. 
+
+The most common form of powerstacking looks something like this: 
+
+![](https://i.imgur.com/y9NkqUD.png)
+
+Other forms of powerstacking include mid game 4w as well.
+
+
+

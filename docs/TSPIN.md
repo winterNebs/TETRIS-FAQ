@@ -211,6 +211,8 @@ Focus on the rows and try and visualize how your upcoming pieces fit into that r
 
 Basically avoid getting in these sorts of situations at all costs.
 
+Here are some examples of dead boards:
+
 #### Two wide:
 
 ![](https://i.imgur.com/xFqdWWX.png)
