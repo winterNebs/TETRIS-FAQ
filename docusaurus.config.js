@@ -24,7 +24,6 @@ module.exports = {
           label: 'Home',
           position: 'left',
         },
-        {to: 'fbq', label: 'Wall of Shame', position: 'left'},
         {
           href: 'https://github.com/winterNebs/TETRIS-FAQ',
           label: 'GitHub',
