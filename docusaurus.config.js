@@ -19,7 +19,7 @@ module.exports = {
       },
       items: [
         {
-          to: '/',
+          to: 'docs/intro',
           activeBasePath: 'docs',
           label: 'Home',
           position: 'left',
@@ -39,7 +39,7 @@ module.exports = {
           items: [
             {
               label: 'TETRIS-FAQ',
-              to: '/',
+              to: 'docs/intro',
             },
           ],
         },
