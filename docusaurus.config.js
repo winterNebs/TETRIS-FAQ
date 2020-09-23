@@ -1,4 +1,5 @@
 module.exports = {
+	onBrokenLinks: 'log',
   title: 'TETRIS-FAQ',
   tagline: 'Finally good info',
     url: 'https://winternebs.github.io/TETRIS-FAQ',
