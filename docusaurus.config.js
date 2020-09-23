@@ -7,7 +7,6 @@ module.exports = {
   organizationName: 'winterNebs', // Usually your GitHub org/user name.
   projectName: 'TETRIS-FAQ', // Usually your repo name.
   themeConfig: {
-    disableDarkMode: true,
     algolia: {
       apiKey: 'adee4080c95683ecf65a415c1d4889db',
       indexName: 'winternebs_tetris-faq',
@@ -18,10 +17,10 @@ module.exports = {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
-      links: [
+      items: [
         {
           to: '/',
-          activeBasePath: '',
+          activeBasePath: 'docs',
           label: 'Home',
           position: 'left',
         },
@@ -81,8 +80,8 @@ module.exports = {
       {
         docs: {
           // It is recommended to set document id as docs home page (`docs/` path).
-          homePageId: 'intro',
-          routeBasePath: '',
+          path: 'docs',
+          routeBasePath: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
