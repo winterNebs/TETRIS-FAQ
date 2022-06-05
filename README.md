@@ -1,7 +1,7 @@
 # VIEW LIVE [https://winternebs.github.io/TETRIS-FAQ/](https://winternebs.github.io/TETRIS-FAQ/)
 
 # Contribute
-Make pull request / open issue. To be expanded later i guess
+Make pull request / open issue. To be expanded later, I guess.
 
 # Website
 
